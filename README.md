@@ -1,4 +1,4 @@
-## *v*LUME Scripts
+## *v*LUME Open Source Scripts
 
 An important feature of *v*LUME the ability to perform local analysis on a subregion of point-cloud data (RoI). C#
 scripts can be programmed to perform any custom analysis once uploaded to the folder
