@@ -12,6 +12,7 @@ particularly in large datasets (i.e. density plots with millions of points that 
 one point to another).
 
 ## The Community
+Users can contribute to vLUME by uploading their own open-source code and communicate with other users through this repository. In this area, contributors are able to create new branches and request pulls, in order to develop a sub-project that can later be committed and merged to the main branch.
 
 ## First provided scripts
 We include four scripts however it is our hope that we will nucleate communities to develop and share their own,
