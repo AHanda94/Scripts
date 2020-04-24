@@ -35,9 +35,7 @@ which will be used to compute the number of neighbours of every single point in 
 ThresholdRadius. The script then assigns a false colour depending on that number. These numbers are
 normalized with reference to the maximum number of neighbours, red being the lower density and blue the
 highest within a colour gradient (note: the colours will be plotted on top of the selection). The script also
-outputs a .txt file (named after the type of analysis and the time it was performed) in
-StreamingAssets\Scripts\Output, saving the number of points of the RoI, the radius tested, and the number of
-neighbours of every single point within the RoI together with its position. Note: The function is only taken within the RoI as an isolated region and does not take into account any pointsin the periphery. Be aware that every single distance from point to point is computed therefore, large RoIs should be executed only in systems with large amounts of memory.
+outputs a .txt file (named after the type of analysis and the time it was performed) in StreamingAssets\Scripts\Output, saving the number of points of the RoI, the radius tested, and the number of neighbours of every single point within the RoI together with its position. Note: The function is only taken within the RoI as an isolated region and does not take into account any pointsin the periphery. Be aware that every single distance from point to point is computed therefore, large RoIs should be executed only in systems with large amounts of memory.
 
 ### Calculate the Density of Points in RoI
 
