@@ -54,7 +54,7 @@ executed only in systems with large amounts of memory.
 
 ## Video Sample
 
-As a demonstration of the capabilities of *v*LUME we an example video corresponding to the key benefits using scripts for cutting edge SMLM samples. This and other supplementary videos can be found in the BioRXiv preprint repository.
+As a demonstration of the capabilities of *v*LUME we show an example video corresponding to the key benefits using scripts for cutting edge SMLM samples. This and other supplementary videos can be found in the BioRXiv preprint repository.
 
 |                |Link                          |Description                         |
 |----------------|---------------------------------|-----------------------------|
