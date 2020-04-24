@@ -48,9 +48,7 @@ an approximation for irregular volumes.
 Calculate the Maximum and the Minimum Distances between points in RoI (filename:
 CalcShortAndFarDistances.cs). For syntax purposes, we provide a very simple script that calculates the
 maximum and minimum distance between all the points within the RoI. The result is printed within vLUME
-using the units of the .csv dataset (Supplementary Video 5).
-Note: Be aware that every single distance from point to point is computed therefore, large RoIs should be
-executed only in systems with large amounts of memory.
+using the units of the .csv dataset. Note: Be aware that every single distance from point to point is computed therefore, large RoIs should be executed only in systems with large amounts of memory.
 
 ## Video Sample
 
