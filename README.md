@@ -10,10 +10,14 @@ analysis and that are often used in SMLM. You can apply them by selecting a RoI 
 environment) when called which is normal. Also be aware that some operations require more than the available memory
 particularly in large datasets (i.e. density plots with millions of points that need to compute every single distance from
 one point to another).
+
+## The Community
+
+## First provided scripts
 We include four scripts however it is our hope that we will nucleate communities to develop and share their own,
 included are:
 
-## Ripley’s K function
+### Ripley’s K function
 
 Ripley’s K function (filename: CalcRipleysK.cs). is a spatial point statistics analysis commonly used to
 evaluate clustering in SMLM data. The script computes the Euclidian distance from a series of pairwise
@@ -23,7 +27,7 @@ in the periphery. Be aware that every single distance from point to point is com
 should be executed only in systems with large amounts of memory. The volume is computed as the smallest
 bounding box containing the whole dataset, which may be a suitable approximation for irregular volumes.
 
-## Nearest Neighbour
+### Nearest Neighbour
 
 Nearest Neighbour Plot (filename: CalcNearestNeighbour.cs). A widely used analysis tool in SR. The
 user is prompted for the value of the ThresholdRadius (that has to be inputted in the same units as the dataset)
@@ -35,7 +39,7 @@ outputs a .txt file (named after the type of analysis and the time it was perfor
 StreamingAssets\Scripts\Output, saving the number of points of the RoI, the radius tested, and the number of
 neighbours of every single point within the RoI together with its position. Note: The function is only taken within the RoI as an isolated region and does not take into account any pointsin the periphery. Be aware that every single distance from point to point is computed therefore, large RoIs should be executed only in systems with large amounts of memory.
 
-## Calculate the Density of Points in RoI
+### Calculate the Density of Points in RoI
 
 Calculate the Density of Points in RoI (filename: CalcDensity.cs). We provide a very simple
 implementation that calculates the points within the RoI and divides this value by the volume of RoI to create
@@ -43,7 +47,7 @@ the localization density. The result is printed within vLUME as points/volume us
 dataset. Note: The volume is computed as the smallest bounded box that can contain the selected dataset, this is only
 an approximation for irregular volumes.
 
-## Calculate the Maximum and the Minimum Distances between Points in RoI
+### Calculate the Maximum and the Minimum Distances between Points in RoI
 
 Calculate the Maximum and the Minimum Distances between points in RoI (filename:
 CalcShortAndFarDistances.cs). For syntax purposes, we provide a very simple script that calculates the
