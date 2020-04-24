@@ -52,11 +52,10 @@ using the units of the .csv dataset (Supplementary Video 5).
 Note: Be aware that every single distance from point to point is computed therefore, large RoIs should be
 executed only in systems with large amounts of memory.
 
-## Video Samples
+## Video Sample
 
-As a demonstration of the capabilities of *v*LUME we show two videos corresponding to the key benefits using scripts for cutting edge SMLM samples. These and other supplementary videos can be found in the BioRXiv preprint repository.
+As a demonstration of the capabilities of *v*LUME we an example video corresponding to the key benefits using scripts for cutting edge SMLM samples. This and other supplementary videos can be found in the BioRXiv preprint repository.
 
 |                |Link                          |Description                         |
 |----------------|---------------------------------|-----------------------------|
-|Walk-through     |[Video 1](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC2/embed/media-2.zip?download=true)           |Overview of the main GUI and functionality in vLUME             |
-|Local bespoke analysis          |[Video 2](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC6/embed/media-6.zip?download=true) |Nearest Neighbour script application to a NPC dataset|
+|Local bespoke analysis          |[Video 1](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC6/embed/media-6.zip?download=true) |Nearest Neighbour script application to a NPC dataset|
