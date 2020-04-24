@@ -55,8 +55,9 @@ using the units of the .csv dataset. Note: Be aware that every single distance f
 
 ## Video Sample
 
-As a demonstration of the capabilities of *v*LUME we show an example video corresponding to the key benefits using scripts for cutting edge SMLM samples. This and other videos can be found in the BioRXiv preprint repository.
+As a demonstration of the capabilities of *v*LUME we show example videoes corresponding to the key benefits using scripts for cutting edge SMLM samples. These and other videos can be found in the BioRXiv preprint repository.
 
 |                |Link                          |Description                         |
 |----------------|---------------------------------|-----------------------------|
-|Local bespoke analysis          |[Video 1](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC6/embed/media-6.zip?download=true) |Nearest Neighbour script application to a NPC dataset|
+|Bespoke Analysis          |[Video 1](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC6/embed/media-6.zip?download=true) |Nearest Neighbour script application to a NPC dataset|
+|Bespoke Analysis |[Video 2](https://www.dropbox.com/s/cn55nty7r7yoy4o/vLUME_video7.mp4?dl=0) | Density Calculation of Spectrin Rings in Plated Neurons|
