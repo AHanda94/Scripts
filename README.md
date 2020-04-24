@@ -43,7 +43,7 @@ the localization density. The result is printed within vLUME as points/volume us
 dataset. Note: The volume is computed as the smallest bounded box that can contain the selected dataset, this is only
 an approximation for irregular volumes.
 
-## Calculate the Maximum and the Minimum Distances between points in RoI
+## Calculate the Maximum and the Minimum Distances between Points in RoI
 
 Calculate the Maximum and the Minimum Distances between points in RoI (filename:
 CalcShortAndFarDistances.cs). For syntax purposes, we provide a very simple script that calculates the
@@ -54,11 +54,9 @@ executed only in systems with large amounts of memory.
 
 ## Video Samples
 
-As a demonstration of the capabilities of *v*LUME we show four videos corresponding to the four key benefits using cutting edge SMLM samples. These and other supplementary videos can be found in the BioRXiv preprint repository.
+As a demonstration of the capabilities of *v*LUME we show two videos corresponding to the key benefits using cutting edge SMLM samples. These and other supplementary videos can be found in the BioRXiv preprint repository.
 
 |                |Link                          |Description                         |
 |----------------|---------------------------------|-----------------------------|
 |Walk-through     |[Video 1](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC2/embed/media-2.zip?download=true)           |Overview of the main GUI and functionality in vLUME             |
-|Segmentation         |[Video 2](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC3/embed/media-3.zip?download=true)             |Demonstration of a user isolating a single microtubule from a complex tangle            |
-|Local bespoke analysis          |[Video 3](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC6/embed/media-6.zip?download=true) |Nearest Neighbour script application to a NPC dataset|
-|Exporting features          |[Video 4](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC7/embed/media-7.zip?download=true) |Setting waypoints in the 3D space using vLUME and saving these points as a video|
+|Local bespoke analysis          |[Video 2](https://www.biorxiv.org/content/biorxiv/early/2020/01/21/2020.01.20.912733/DC6/embed/media-6.zip?download=true) |Nearest Neighbour script application to a NPC dataset|
