@@ -55,7 +55,7 @@ using the units of the .csv dataset. Note: Be aware that every single distance f
 
 ## Video Sample
 
-As a demonstration of the capabilities of *v*LUME we show an example video corresponding to the key benefits using scripts for cutting edge SMLM samples. This and other supplementary videos can be found in the BioRXiv preprint repository.
+As a demonstration of the capabilities of *v*LUME we show an example video corresponding to the key benefits using scripts for cutting edge SMLM samples. This and other videos can be found in the BioRXiv preprint repository.
 
 |                |Link                          |Description                         |
 |----------------|---------------------------------|-----------------------------|
